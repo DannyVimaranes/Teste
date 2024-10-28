@@ -1,0 +1,15 @@
+{
+  "pages": [
+    {
+      "name": "Stremio",
+      "items": [
+        {
+          "name": "Canal Exemplo",
+          "type": "video",
+          "url": "https://web.stremio.com/"
+        }
+      ]
+    }
+  ]
+}
+
